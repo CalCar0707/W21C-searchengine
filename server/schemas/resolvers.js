@@ -1,4 +1,4 @@
-const { Class } = rewuire('../models');
+const { Class } = require('../models');
 
 const resolvers = {
     Query: {
